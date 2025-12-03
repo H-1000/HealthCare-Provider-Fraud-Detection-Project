@@ -8,9 +8,9 @@ Healthcare fraud is a significant problem costing billions of dollars annually. 
 
 ## Team Members:
 
-Omar Bassem Talaat Mustafa
-Abdelhamid Taher Elnaggar
-Adham Bahaa Barakat
+Omar Bassem Talaat Mustafa,
+Abdelhamid Taher Elnaggar,
+Adham Bahaa Barakat,
 Sherif Ahmed Halawa
 
 
